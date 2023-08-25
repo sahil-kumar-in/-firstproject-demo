@@ -1,3 +1,3 @@
 # -firstproject-demo
-This is my first github repository
-author- sahil kumar
+This is my first github repository.
+Author- sahil kumar
